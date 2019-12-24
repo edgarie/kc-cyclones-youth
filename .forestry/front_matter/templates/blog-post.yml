@@ -19,3 +19,4 @@ fields:
   label: image
 pages:
 - page/about.html
+- page/what-we-do.html
